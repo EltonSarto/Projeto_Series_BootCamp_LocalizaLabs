@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7I2PTULS0zLnFIuiTHvzYg84hmf2a1yXyU+wXPNLzGilzomF7tv0xG7rra8TMeWYkCvNHfzFzAqjpGxBT4qOVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elton\\Downloads\\Cursos\\Curso LocalizaLabs .NET Developer\\Projeto Series BootCamp LocalizaLabs\\DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elton\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Elton\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Elton\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Elton\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
